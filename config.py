@@ -8,7 +8,7 @@ BOT_TOKEN = "8747852248:AAGRQvXbRBiB7l-_5azSZNCdfOPJLMGkAIo"
 ADMIN_IDS = [6592862339]  # O'zingizning ID ingizni qo'ying
 
 # Kinolar saqlanadigan kanal ID
-STORAGE_CHANNEL_ID = -1002427764244  # Kanal ID sini qo'ying
+STORAGE_CHANNEL_ID = -1003982720740  # Kanal ID sini qo'ying
 
 # Database fayl nomi
 DB_NAME = "media_bot.db"
